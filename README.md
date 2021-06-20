@@ -1,2 +1,2 @@
 # fakeFloppatools
-Fake floppatools by cloud3 and mayeraneq
+Fake floppatools, orginal by cloud3 and mayeraneq
